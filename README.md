@@ -6,4 +6,4 @@ Welcome to my Rasphberry Projects, in every file is scheme how to connect device
 <br />sudo ./diode
 
 # List of files:
-<br />001 - Program with flashing LED
+<br />001 - Program with flashing LEDs
